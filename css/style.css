@@ -19,7 +19,7 @@
         }
 
         .hero {
-            background: linear-gradient(135deg, rgba(255, 107, 53, 0.9), rgba(44, 62, 80, 0.8)), url('images/background.webp') center/cover;
+            background: linear-gradient(135deg, rgba(255, 107, 53, 0.9), rgba(44, 62, 80, 0.8)), url('../images/background.webp') center/cover;
             height: 100vh;
             display: flex;
             align-items: center;
