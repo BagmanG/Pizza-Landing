@@ -39,6 +39,6 @@
 
 ## Установка и запуск
 
-1. Клонировать репозиторий:
+Клонировать репозиторий:
    ```bash
    git clone https://github.com/BagmanG/Pizza-Landing.git
