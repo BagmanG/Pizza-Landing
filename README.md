@@ -43,4 +43,19 @@
    ```bash
    git clone https://github.com/BagmanG/Pizza-Landing.git
    ```
-2. Откройте файл index.html в любом современном браузере. Для разработки рекомендуется использовать Live Server в VS Code.
+2. Открыть файл index.html в браузере
+
+## Структура проекта
+
+```
+the-pizza/
+├── index.html         # Главная страница
+├── css/
+│   └── style.css      # Пользовательские стили
+├── images/            # Изображения для сайта
+└── README.md          # Документация
+```
+
+## Лицензия
+
+MIT License
